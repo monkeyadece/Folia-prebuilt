@@ -1,3 +1,7 @@
+## Prebuilt
+Remember to build your own Jar files, it could infect your computer
+
+I do not own Folia this is simply a pre-built one.
 <div align=center>
     <img src="./folia.png">
     <br /><br />
